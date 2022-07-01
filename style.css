@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.email{
+   border : none;
+   outline: none;
+
+}
+.bnt{
+    border: none;
+    outline: none;
+    margin-left: -5px;
+    /* width: 50px; */
+}
+.user{
+    height: fit-content;
+    /* width: 20rem; */
+    background-color: black;
+    border-radius: 10px; 
+}
+.user1{
+    height: fit-content;
+    /* width: 20rem; */
+    background-color: gray;
+    border-radius: 10px; 
+}
+.image1{
+    border: 5px solid transparent;
+    background-clip: content-box;
+}
+.lorem-div1{
+    border: 5px solid transparent;
+    background-clip: content-box;
+    
+}
+.lorem-text{
+    font-size: 20px;
+    color: gray;
+    
+    
+}
+.button2{
+    margin-left: -10rem;
+    margin-top: 50px;
+
+}
+.image1-div{
+    border-radius: 5rem;
+}
+.ogu{
+    border-radius: 10px;
+    padding: 20px;
+    border:5px solid transparent;
+    background-clip: padding-box;
+}
+.no1{
+    font-size: 20px;
+    font-weight: 100;
+    
+
+}
+.accordion button{
+    border: none;
+}
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 25px;
+    display: none;
+  }
